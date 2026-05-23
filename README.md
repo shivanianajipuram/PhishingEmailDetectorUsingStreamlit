@@ -184,6 +184,10 @@ No machine learning is used.
 
 ---
 
+## LIVE DEMO
+```bash
+https://phishingemaildetectorusingapp-es94tv8rwae4fisjckefmn.streamlit.app/
+```
 ## Technologies Used
 
 - Python
@@ -191,6 +195,7 @@ No machine learning is used.
 - Regular Expressions
 - Cybersecurity Basics
 - Git & GitHub
+
 
 ---
 
