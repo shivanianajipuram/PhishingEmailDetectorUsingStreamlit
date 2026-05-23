@@ -155,8 +155,7 @@ This project is based on rule-based detection only.
 
 
 Deployed On- streamlit 
-LIVE DEMO
-https://phishingemaildetectorusingapp-es94tv8rwae4fisjckefmn.streamlit.app/
+
 
 Ethical Usage Notice
 This tool is for educational purposes only. It does not access real email systems or perform any network activity.
